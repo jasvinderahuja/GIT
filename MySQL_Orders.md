@@ -1,23 +1,8 @@
 ---
 title: "Queries on orders database in MySQL"
-author: "Jas Ahuja"
+author: "Jasvinder Ahuja"
 date: "2024-06-07"
-output:
-  html_document:
-    keep_md: yes
-    code_folding: show
-    toc: true
-    toc_depth: 3
-    toc_float: true
-    theme: readable
-    css: style.css
-  pdf_document:
-    extra_dependencies: ["adjustbox"]
-    toc: true
-    toc_depth: 3
-email: jasvinderahuja@gmail.com
-Category: "SQL"
-Tags: ["SQL", "Data Exploration", "Data Summarization"]
+
 ---
 [Sample DB resources](https://dataedo.com/kb/databases/all/sample-databases)
 ## Setup

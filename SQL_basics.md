@@ -50,30 +50,6 @@ data, etc.
     -   GRANT,
     -   REVOKE
 
-## R session information
-
-``` r
-sessionInfo()
-```
-
-R version 4.3.3 (2024-02-29) Platform: aarch64-apple-darwin23.2.0
-(64-bit) Running under: macOS Sonoma 14.4.1
-
-Matrix products: default BLAS:
-/opt/homebrew/Cellar/openblas/0.3.26/lib/libopenblasp-r0.3.26.dylib
-LAPACK: /opt/homebrew/Cellar/r/4.3.3/lib/R/lib/libRlapack.dylib; LAPACK
-version 3.11.0
-
-locale: \[1\]
-en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
-
-time zone: America/Los_Angeles tzcode source: internal
-
-attached base packages: \[1\] stats graphics grDevices utils datasets
-methods base
-
-loaded via a namespace (and not attached): \[1\] compiler_4.3.3
-fastmap_1.1.1 cli_3.6.2 tools_4.3.3  
-\[5\] htmltools_0.5.8.1 rstudioapi_0.16.0 yaml_2.3.8 rmarkdown_2.26  
-\[9\] knitr_1.45 xfun_0.43 digest_0.6.35 rlang_1.1.3  
-\[13\] evaluate_0.23
+## SQL hints:
+- [Click for details on difference between row_number(), rank(), and dense_rank()](https://community.sisense.com/t5/knowledge/difference-between-row-number-rank-and-dense-rank/ta-p/9021)
+- [Click for help with date and time related queries.](https://medium.com/@sia_ibk/exploring-various-date-time-related-functions-in-sql-d1b9ba06b0c6)
